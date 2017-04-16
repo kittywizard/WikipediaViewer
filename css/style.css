@@ -1,0 +1,30 @@
+/* css! */
+body {
+  background-color: #fff;
+  font-family: verdana, sans-serif;
+  font-size: 14px;
+  color: #000;
+}
+
+a {
+  color: #999;
+  text-decoration: none;
+  font-weight: bold;
+
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ccc;
+  font-weight: bold;
+}
+
+p {
+
+}
+
+.container {
+  width: 75%;
+  margin-left: auto;
+  margin-left: auto;
+}
